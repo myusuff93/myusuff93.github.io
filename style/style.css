@@ -1,0 +1,28 @@
+body {
+  font-family: "Quicksand", Arial, Helvetica, sans-serif;
+  font-weight: 500;
+}
+section {
+  padding-top: 5rem;
+}
+
+.base-color {
+  background-color: hsl(204, 57%, 46%);
+}
+.base-color2 {
+  background-color: #e1edf5;
+}
+/* utility */
+.bordered {
+  border: 2px solid blue;
+}
+
+.justify {
+  text-align: justify;
+}
+
+/* jumbotron */
+
+.jumbotron {
+  background-color: #e1edf5;
+}
